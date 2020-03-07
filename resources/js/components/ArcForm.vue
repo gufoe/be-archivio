@@ -17,11 +17,11 @@
           Protocollo esterno
           <b-form-input v-model="form.ext_pr" required/>
         </div>
-        <div class="col-sm-5">
+        <div class="col-sm-4">
           Cod. {{ $t(`${form.type}_target`)}}
           <v-select v-model="form.sender_code" taggable :options="sender_codes"/>
         </div>
-        <div class="col-sm-5">
+        <div class="col-sm-4">
           Nome {{ $t(`${form.type}_target`)}}
           <v-select v-model="form.sender_name" taggable :options="sender_names"/>
         </div>
