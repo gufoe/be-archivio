@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.modal-backdrop {
+  background-color: rgba(0,0,0,.3);
+}
+
+.b-calendar-grid-body {
+  span {
+    padding: 3px!important;
+    font-size: 0.9em;
+    font-weight: normal!important;
+  }
+}
+
+.v-select {
+  .vs__dropdown-toggle {
+    height: calc(1.6em + 0.75rem + 2px);
+    overflow: hidden;
+    .vs__selected {
+      white-space: nowrap;
+      margin-top: .4rem;
+      // max-width: calc(100% - 40px);
+      // overflow: hidden;
+      // text-overflow: ellipsis;
+    }
+  }
+}
+
+.card-header {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
