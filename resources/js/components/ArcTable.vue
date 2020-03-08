@@ -22,7 +22,7 @@
               </tr>
             </thead>
             <tbody>
-              <tr v-for="mx in data.messages" :key="mx.id">
+              <tr v-for="mx in data.messages" :key="mx.id" @click="form = _.cloneDeep(mx)">
                 <td>{{ mx.int_pr }}</td>
                 <td>{{ mx.ext_pr }}</td>
                 <td>{{ mx.sender_code}}</td>
@@ -74,8 +74,8 @@
         </div>
       </div>
 
-      <b-modal v-model="form_open" hide-footer hide-header>
-        <arc-form v-if="form" :form="form" @saved="form = null; refresh()"/>
+      <b-modal v-model="form_open" hide-footer hide-header size="lg">
+        <arc-form v-if="form" :form="form" @saved="form = null; refresh()" @close="form = null"/>
       </b-modal>
     </be-container>
   </div>
@@ -92,6 +92,7 @@ export default {
         year: (new Date).getFullYear(),
       },
       form: null,
+      preview: null,
       is_loading: false,
     }
   },
@@ -104,6 +105,10 @@ export default {
     form_open: {
       get () { return !!this.form },
       set (v) { if (!v) this.form = null }
+    },
+    preview_open: {
+      get () { return !!this.preview },
+      set (v) { if (!v) this.preview = null }
     },
   },
 

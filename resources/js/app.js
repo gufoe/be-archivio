@@ -34,6 +34,29 @@ const i18n = new VueI18n({
 })
 
 
+window.to_form_data = (data, name, fd) => {
+  fd = fd || new FormData()
+  name = name || ''
+  if (data && typeof data === 'object' && data.constructor.name != 'File') {
+    if (Object.values(data).length == 0) {
+      to_form_data('', name, fd)
+    } else {
+      for (var index in data) {
+        var value = data[index]
+        if (name == '') {
+          to_form_data(value, index, fd)
+        } else {
+          to_form_data(value, name + '[' + index + ']', fd)
+        }
+      }
+    }
+  } else if (data !== undefined && typeof data != 'function') {
+    fd.append(name, data)
+  }
+  return fd
+},
+
+
 Vue.prototype.$utc = str => {
   if (!str || typeof str != 'string') return new Date()
   let pieces = str.match(/\d+/g)

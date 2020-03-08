@@ -13,8 +13,8 @@ Route::group(['middleware' => 'auth'], function() {
             return redirect('/posta/entrata');
         }
         return view('vue')->with([
-            'title' => 'Title test',
-            'vue' => 'be-table',
+            'title' => $type,
+            'vue' => 'arc-table',
             'params' => [
                 'type' => $type,
             ],
@@ -61,6 +61,9 @@ Route::group(['middleware' => 'auth'], function() {
             'locations' => Message::distinct()->pluck('location')->sort()->values(),
         ];
     });
+    Route::delete('api/messages/{id}', function (int $id) {
+        Message::findOrFail($id)->delete();
+    });
     Route::post('api/messages/{type}', function ($type) {
         $data = [
             'type' => request('type'),
@@ -74,8 +77,13 @@ Route::group(['middleware' => 'auth'], function() {
             'mean_of_arrival' => request('mean_of_arrival'),
             'dossier' => request('dossier'),
             'location' => request('location'),
-            'file_token' => request('file_token'),
         ];
+        if ($doc = request()->file('doc')) {
+            $data['file_token'] = basename($doc->store('public'));
+            if (!$data['file_token']) {
+                abort(400, 'Impossibile caricare il file');
+            }
+        }
 
         if (!mb_strlen($data['sender_code'])) abort(400, 'Compilare tutti i campi');
         if (!mb_strlen($data['sender_name'])) abort(400, 'Compilare tutti i campi');
