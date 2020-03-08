@@ -68,7 +68,7 @@
               <i>Nessun documento allegato</i>
             </div>
           </div>
-          <b-form-file v-else v-model="form.doc" :placeholder="!form.file_token ? 'Seleziona un file' : 'Seleziona un nuovo file per sovrascrivere'"/>
+          <b-form-file v-else v-model="form.doc" :placeholder="!form.file_token ? 'Seleziona un file' : 'Seleziona un nuovo file per sovrascrivere'" :disabled="is_disabled"/>
         </div>
       </div>
       <hr>
