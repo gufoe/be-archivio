@@ -94,9 +94,6 @@ Route::group(['middleware' => 'auth'], function() {
         }
 
         if ($data['reg_date'] < $data['doc_date']) abort(400, 'La data di registrazione non può precedere la data del documento');
-        $min_reg_date = Message::where('type', $data['type'])->max('reg_date');
-        $min_reg_date_it = date('d/m/Y', strtotime($min_reg_date));
-        if ($data['reg_date'] < $min_reg_date) abort(400, "Puoi solo inserire elementi dal $min_reg_date_it in poi");
 
         $x = null;
         if ($id = request('id')) {
@@ -109,9 +106,15 @@ Route::group(['middleware' => 'auth'], function() {
 
             $x->update($data);
         } else {
-            $data['int_pr'] = Message::whereType($data['type'])
-                ->forYear($data['doc_date'])
-                ->max('int_pr')+1;
+
+            $min_reg_date = Message::where('type', $data['type'])->max('reg_date');
+            $min_reg_date_it = date('d/m/Y', strtotime($min_reg_date));
+            if ($data['reg_date'] < $min_reg_date) abort(400, "Puoi solo inserire elementi dal $min_reg_date_it in poi");
+
+            if (!$data['int_pr']) {
+                $data['int_pr'] = Message::whereType($data['type'])->forYear($data['doc_date'])->max('int_pr')+1;
+            }
+
             $x = Message::create($data);
         }
         return $x;
