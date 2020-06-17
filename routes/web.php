@@ -67,16 +67,17 @@ Route::group(['middleware' => 'auth'], function() {
     Route::post('api/messages/{type}', function ($type) {
         $data = [
             'type' => request('type'),
-            'reg_date' => request('reg_date'),
-            'doc_date' => request('doc_date'),
-            'ext_pr' => request('ext_pr'),
-            'sender_code' => request('sender_code'),
-            'sender_name' => request('sender_name'),
+            'reg_date' => (string) request('reg_date'),
+            'doc_date' => (string) request('doc_date'),
+            'ext_pr' => (int) request('ext_pr'),
+            'int_pr' => (int) request('int_pr'),
+            'sender_code' => (string) request('sender_code'),
+            'sender_name' => (string) request('sender_name'),
             'notes' => (string) request('notes'),
-            'office' => request('office'),
-            'mean_of_arrival' => request('mean_of_arrival'),
-            'dossier' => request('dossier'),
-            'location' => request('location'),
+            'office' => (string) request('office'),
+            'mean_of_arrival' => (string) request('mean_of_arrival'),
+            'dossier' => (string) request('dossier'),
+            'location' => (string) request('location'),
         ];
         if ($doc = request()->file('doc')) {
             $data['file_token'] = basename($doc->store('public'));
@@ -85,13 +86,27 @@ Route::group(['middleware' => 'auth'], function() {
             }
         }
 
-        if (!mb_strlen($data['sender_code'])) abort(400, 'Compilare tutti i campi');
-        if (!mb_strlen($data['sender_name'])) abort(400, 'Compilare tutti i campi');
-        if (!mb_strlen($data['office'])) abort(400, 'Compilare tutti i campi');
+        if ($data['type'] == 'entrata') {
+            if (!mb_strlen($data['sender_code'])) abort(400, 'Compilare tutti i campi');
+            if (!mb_strlen($data['sender_name'])) abort(400, 'Compilare tutti i campi');
+            if (!mb_strlen($data['office'])) abort(400, 'Compilare tutti i campi');
+
+        }
+
+        if ($data['reg_date'] < $data['doc_date']) abort(400, 'La data di registrazione non può precedere la data del documento');
+        $min_reg_date = Message::where('type', $data['type'])->max('reg_date');
+        $min_reg_date_it = date('d/m/Y', strtotime($min_reg_date));
+        if ($data['reg_date'] < $min_reg_date) abort(400, "Puoi solo inserire elementi dal $min_reg_date_it in poi");
 
         $x = null;
         if ($id = request('id')) {
             $x = Message::findOrFail($id);
+
+            $used_int_pr = Message::where('int_pr', $data['int_pr'])
+                ->where('id', '<>', $x->id)
+                ->exists();
+            if ($used_int_pr) abort(400, 'Il protocollo interno è già in uso');
+
             $x->update($data);
         } else {
             $data['int_pr'] = Message::whereType($data['type'])

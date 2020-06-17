@@ -4,7 +4,7 @@ namespace App;
 
 class Message extends Model {
   public function scopeForYear($q, $year) {
-    $q->where('doc_date', 'like', substr("$year", 0, 4)."%");
+    $q->where('reg_date', 'like', substr("$year", 0, 4)."%");
   }
 
   public static function getSenders($code = null) {
@@ -23,6 +23,7 @@ class Message extends Model {
     $ret = (object) [];
     foreach ($x as $d) {
       $d = explode(' | ', $d);
+      if (count($d) != 4) continue;
       if (!isset($ret->{$d[0]})) {
         $ret->{$d[0]} = (object) [];
       }

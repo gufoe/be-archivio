@@ -14,8 +14,8 @@
             <thead>
               <tr>
                 <th>Int.</th>
-                <th>Est.</th>
-                <th>Cod. {{ $t(`${type}_target`) }}</th>
+                <th v-if="type == 'entrata'">Est.</th>
+                <th v-if="type == 'entrata'">Cod. {{ $t(`${type}_target`) }}</th>
                 <th>Nome {{ $t(`${type}_target`) }}</th>
                 <th>Data doc.</th>
                 <th>Data ins.</th>
@@ -24,8 +24,8 @@
             <tbody>
               <tr v-for="mx in data.messages" :key="mx.id" @click="form = _.cloneDeep(mx)">
                 <td>{{ mx.int_pr }}</td>
-                <td>{{ mx.ext_pr }}</td>
-                <td>{{ mx.sender_code}}</td>
+                <td v-if="type == 'entrata'">{{ mx.ext_pr }}</td>
+                <td v-if="type == 'entrata'">{{ mx.sender_code}}</td>
                 <td>{{ mx.sender_name}}</td>
                 <td>{{ $d($utc(mx.doc_date), 'dm') }}</td>
                 <td>{{ $d($utc(mx.reg_date), 'dm') }}</td>

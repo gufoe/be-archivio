@@ -5,19 +5,30 @@
     <hr>
     <form @submit.prevent="!is_preview && save()">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
+          <div v-if="form.type == 'entrata'" class="mb-2">
+            Protocollo esterno
+            <b-form-input v-model="form.ext_pr" required :disabled="is_disabled"/>
+          </div>
+          <div v-if="form.type == 'uscita' || form.id">
+            Protocollo interno
+            <b-form-input v-model="form.int_pr" required :disabled="is_disabled"/>
+          </div>
+        </div>
+        <div class="col-sm-4">
           Data documento
           <b-form-datepicker v-model="form.doc_date" locale="it" :disabled="is_disabled"/>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           Data registrazione
-          <b-form-datepicker v-model="form.reg_date" locale="it" :disabled="is_disabled"/>
+          <b-form-datepicker v-model="form.reg_date" locale="it" :disabled="form.id || is_disabled"/>
         </div>
+        <div class="col-sm-12"/>
         <div class="col-sm-4">
-          Protocollo esterno
-          <b-form-input v-model="form.ext_pr" required :disabled="is_disabled"/>
+          Ufficio responsabile
+          <v-select v-model="form.office" taggable :options="offices" :disabled="is_disabled"/>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-4" v-if="form.type == 'entrata'">
           Cod. {{ $t(`${form.type}_target`)}}
           <v-select v-model="form.sender_code" taggable :options="sender_codes" :disabled="is_disabled"/>
         </div>
@@ -25,34 +36,35 @@
           Nome {{ $t(`${form.type}_target`)}}
           <v-select v-model="form.sender_name" taggable :options="sender_names" :disabled="is_disabled"/>
         </div>
+        <!-- <div class="col-sm-12"/> -->
         <div class="col-sm-4">
-          Ufficio responsabile
-          <v-select v-model="form.office" taggable :options="offices" :disabled="is_disabled"/>
-        </div>
-        <div class="col-sm-4">
-          Mezzo di arrivo
+          Mezzo di {{ $t(`${form.type}_mezzo`)}}
           <v-select v-model="form.mean_of_arrival" taggable :options="means_of_arrival" :disabled="is_disabled"/>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-4" v-if="form.type == 'entrata'">
           Locazione
           <v-select v-model="form.location" taggable :options="locations" :disabled="is_disabled"/>
         </div>
-        <div class="col-sm-3">
-          Titolo
-          <v-select v-model="titolo" taggable :options="_.keys(titoli)" :disabled="is_disabled"/>
-        </div>
-        <div class="col-sm-3">
-          Classe
-          <v-select v-model="classe" taggable :options="_.keys(classi)" :disabled="is_disabled || !titolo"/>
-        </div>
-        <div class="col-sm-3">
-          Sottoclasse
-          <v-select v-model="sottoclasse" taggable :options="_.keys(sottoclassi)" :disabled="is_disabled || !classe"/>
-        </div>
-        <div class="col-sm-3">
-          Fascicolo
-          <v-select v-model="fascicolo" taggable :options="_.keys(fascicoli)" :disabled="is_disabled || !sottoclasse"/>
-        </div>
+        <div class="col-sm-12"/>
+        <template v-if="form.type == 'entrata'">
+          <div class="col-sm-3">
+            Titolo
+            <v-select v-model="titolo" taggable :options="_.keys(titoli)" :disabled="is_disabled"/>
+          </div>
+          <div class="col-sm-3">
+            Classe
+            <v-select v-model="classe" taggable :options="_.keys(classi)" :disabled="is_disabled || !titolo"/>
+          </div>
+          <div class="col-sm-3">
+            Sottoclasse
+            <v-select v-model="sottoclasse" taggable :options="_.keys(sottoclassi)" :disabled="is_disabled || !classe"/>
+          </div>
+          <div class="col-sm-3">
+            Fascicolo
+            <v-select v-model="fascicolo" taggable :options="_.keys(fascicoli)" :disabled="is_disabled || !sottoclasse"/>
+          </div>
+        </template>
+        <div class="col-sm-12"/>
         <div class="col-sm-12">
           Documento
           <div v-if="is_preview">
@@ -69,6 +81,10 @@
             </div>
           </div>
           <b-form-file v-else v-model="form.doc" :placeholder="!form.file_token ? 'Seleziona un file' : 'Seleziona un nuovo file per sovrascrivere'" :disabled="is_disabled"/>
+        </div>
+        <div class="col-sm-12">
+          Descrizione
+          <b-textarea v-model="form.notes" :disabled="is_disabled"/>
         </div>
       </div>
       <hr>
@@ -106,6 +122,7 @@ export default {
       dossiers: {},
       is_preview: !!this.form.id,
       is_saving: false,
+      orig: _.cloneDeep(this.form),
     }
   },
 
@@ -176,7 +193,8 @@ export default {
       })
     },
     save () {
-      if (this.is_disabled) return
+      if (this.is_disabled) return null
+      if (this.orig.int_pr != this.form.int_pr && !confirm('Il protocollo interno è stato cambiato, continuare?')) return null
       this.is_saving = true
       axios.post(`/api/messages/${this.form.type}`, to_form_data(this.form)).then(res => {
         this.$emit('close')
