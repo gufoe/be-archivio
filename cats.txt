@@ -1,0 +1,1007 @@
+01 - Organi Istituzionali	01 - Presidenza	01 - Documenti Statutari Cusb	1	Atto Costitutivo e Adesione al C.U.S.I.
+			2	Statuto 2003
+			3	Statuto 2006
+			4	Riconoscimento personalità giuridica (Regione)
+			5	Registrazione  marchio di impresa
+			6	Commissariamento CUS Bologna
+			7	Registrazione impresa dal 2002 al 2004
+		02 - Presidente	1	Archivio personale
+			2	Corrispondenza
+			3	Universiadi estive 2017/2019
+			4	varie
+		03 - Rapporti Presidenza-CUSI	1	Consiglio Federale
+			2	Giunta esecutiva
+			3	Consigliere nazionale CUSI-CESU
+			4	Consigliere nazionale CUSI-IUSM
+		04 - Documentazione legislativa	1	Documentazione nazionale
+			2	Documentazione regionale
+	02 - Consiglio Direttivo	01 - Convocazioni, verbali e delibere	1	Convocazioni
+			2	Verbali
+			3	Delibere
+		02 - Documentazione varia	1	Corrispondenza
+			2	dimissioni membri C. D.
+	03 - Soci	01 - Assemblea soci	1	Convocazioni Assemblea
+			2	Relazione morale, tecnica, finanziaria
+			3	Verbali
+		02 - Tesseramento soci	1	Elenco Soci
+			2	corrispondenza
+	04 - CUSI	01 - Documenti statutari	1	Statuto 1946
+			2	Statuto 1985
+			3	Proposte Emendamenti Satuto 1995
+			4	Statuto C.U.S.I. 2001
+			5	Regolamento attuazione Statuto 2007
+			6	Amministrazione e Contabilità dei C.U.S. 1988
+			7	Amministrazione e Contabilità dei C.U.S. 1999
+			8	Amministrazione e Contabilità dei C.U.S. 2007
+			9	Amministrazione e Contabilità dei C.U.S. 2009
+			10	Riconoscimento Giuridico C.U.S.I.
+			11	Regolamento attuazione Statuto 2012
+			12	commissariamento CUS Bologna
+		02 - Assemblea Federale	1	Comunicati
+		03 - Contributi CONI/CUSI	1	Contributi
+			2	Rendicontazione Contributi
+		04 - Relazioni con il CUSI	1	Affiliazione
+			2	Dati attivita
+			3	Bilancio previsionale
+			4	Rassegna stampa
+			5	Comunicati Generali esclusi CNU e L.394
+			6	Bilancio consuntivo
+		05 - Rapporti con il Comitato Regionale CUSI	1	Corrispondenza
+			2	Contabilità
+		06 - FISU	1	Corrispondenza
+			2	Comunicati
+		07 - Altri CUS	1	Cus Torino
+			2	Cus Trento
+			3	Cus Venezia
+			4	Cus Catania
+			5	Cus Bari
+			6	Cus Parma
+			7	Cus Foggia
+		08 - Universiadi 2019	1	corrispondenza
+		09 - Assemblea tesserati CUSI	1	candidature
+			2	elezioni
+02 - Impianti Sportivi	01 - Centro Universitario Sportivo Record	01 - Rapporti con l'Università	1	Corrispondenza e comunicati
+		02 - Documentazione generale	1	Documentazione pre-acquisto
+			2	Convenzione Cusb-Isef
+			3	Planimetrie e MQ impianto
+			4	Manutenzione straordinaria
+			5	Certificato prevenzione incendi
+			6	Visure catastali
+			7	Omologazione impianti e collaudi
+			8	Autorizzazione abitabilità
+			9	Riadattamento 2002
+			10	Rapporti Comune Bologna
+			11	Denunce
+			12	Spogliatoi tennis
+			13	Spogliatoi e cucina dipendenti
+			14	Corrispondenza varia
+		03 - Impianti tecnici	1	Verifiche impianto elettrico
+			2	Gruppo elettrogeno
+			3	Adeguamento Norme sicur. Imp. Elettrico
+			4	Schema quadri elettrici
+			5	Centrale termica
+			6	opere certificazione prevenzione incendi
+			7	Adeguatezza cabina elettrica
+		04 - Utenze	1	Indagini costi utenze
+			2	Unogas
+			3	Energia elettrica
+			4	Smaltimento rifiuti e tasse rifiuti
+			5	Hera Comm acqua
+		05 - Fornitori	1	Fornitori vari
+			2	Preventivi
+			3	Barchemical
+			4	Af System
+			5	Securitalia (Full security)
+			6	Brentag
+			7	Felsinea ascensori
+			8	Diolaiti-Assistenza caldaia
+			9	Eco Buster-Derattizzazione
+			10	Gestetner
+			11	Tecno-System
+			12	LDMA
+		06 - Bar	1	Dia e planimetria
+			2	Licenza-Autorizzazione sanitaria
+			3	Gasbarro
+			4	Gestione Cusb
+			5	Dival S.a s
+			6	Camst
+			7	Air service
+			8	Mar di Caffè
+			9	AL.MA SRL
+			10	Rizzelli Adriano
+		07 - Attivita' commerciale	1	Vendita Materiale Sportivo
+			2	Nuoto libero
+			3	Aquabike  e altre discipline
+			4	Locazione impianti a terzi
+		08 - Richieste  Impianti	1	121' Reggimento
+			2	Sezione Atletica
+			3	Privati
+			4	Ufficio Educazione Fisica provinciale
+			5	cusb settore promozionle
+			6	Cusb sezione pallavolo maschile
+			7	Cusb sezione Ultimate Frisbee
+			8	Cusb settore tornei
+			9	interni
+			10	altri
+		09 - Attività promozionale nuoto	1	fornitori
+			2	convenzioni
+			3	spazi acqua  comune di Bologna
+			4	inventario beni
+			5	corrispondenza
+			6	bilancio
+		10 - Ristrutturazione 2012	1	calcolo strutturale
+			2	prevenzione incendi
+	02 - Terrapieno	01 - Attrezzature	1	piattaforma aerea elevabile- genie
+		02 - Documentazione generale	1	Documenti vari storici
+			2	Convenz. Comune-Univers.-Cusb
+			3	Atto donazione Opera Universitaria
+			4	Piano particolareggiato
+			5	Planimetrie varie e MQ impianto
+			6	Manutenzione straordinaria
+			7	Visure catastali
+			8	Omologazione impianti e collaudi
+			9	Attrezzature
+			10	Inventario beni mobili
+			11	Denunce furto
+			12	Regolamento impianto
+		03 - Impianti Tecnici	1	Elettrodotto
+			2	Impianto elettrico
+			3	Impianto idraulico
+			4	Centrale termica
+		04 - Utenze	1	Gas
+			2	Acqua
+			3	Energia elettrica
+			4	Smaltimento rifiuti e tasse rifiuti
+			5	Indagini costi utenze
+		05 - Fornitori	1	Estintori
+			2	Assistenza e conduzione caldaia
+			3	Preventivi
+			4	Af System
+			5	ATC Bologna
+		06 - Settori vari	1	Campo principale
+			2	Tribuna e sottotribuna
+			3	Pista atletica leggera
+			4	Campo secondario
+			5	Illuminazione Campo secondario
+			6	Campi Calcio a 5
+			7	Piazzale e parcheggio zona Palacus
+			8	Pozzo
+			9	Campo Rugby
+			10	ristrutturazione gradinate
+		07 - Palacus	1	Ubicazione Palacus
+			2	Relazione tecnica
+			3	Opere civili
+			4	Opere di sicurezza
+			5	Certificato prevenzione incendi
+			6	Agibilità
+			7	Attrezzature
+			8	Arrampicata sportiva
+			9	Atti commissione collaudo
+			10	Omologazione impianti
+			11	Centrale termica
+			12	Impianto elettrico
+			13	Manutenzione straordinaria
+			14	Inventario beni mobili
+			15	Varie
+			16	Omologazione calcio a 5
+			17	Strutture sostegno arredi
+			18	Impianto idraulico
+			19	denunce furti
+			20	Fornitori
+		08 - Campo Hockey	1	Convenz. Università-FIH-Cusb
+			2	Planimetrie
+			3	Pratiche costruzione campo
+			4	Manutenzione straordinaria
+			5	Varie
+		09 - Club House	1	Costruzione-Contratti di Appalto
+			2	Costruzione-Documentazione tecnica
+			3	Costruzione-Pratica Credito Sportivo
+			4	Costruzione-Impianto fotovoltaico
+			5	Costruzione-Fornitura arredi
+			6	Costruzione-Progetti preliminari e varie
+			7	Corrispondenza
+		10 - Servizio di custodia	1	Contratto custode
+			2	Abitazione custode
+			3	Inventario beni mobili abitazione
+		11 - Nuove opere	1	Riunioni-Proposte
+			2	Pista atletica
+			3	Nuovo Minghini ICS
+		12 - Richieste impianti	1	121' Reggimento
+			2	Scuole
+			3	Privati
+			4	Federazioni sportive
+			5	Associazioni
+			6	Cusb sezione pallavolo maschile
+			7	Cusb sezione ultimate frisbee
+			8	Circolo dipendenti universita'
+			9	Cusb settore tornei
+		13 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		14 - Pratica Tarsu/Tares		
+		20 annullare		
+	03 - Ozzano	01 - Documentazione generale	1	Piano Particolareggiato
+			2	Progetti Impianti sportivi
+			3	Convenzioni comune Ozzano
+			4	Rogito comune Università
+			5	Varie
+			6	MQ impianto
+		02 - Impianti tecnici	1	Conformità impianto elettrico
+		03 - Fornitori	1	Habitat contratto ricovero attrezzi
+		04 - Richieste impianti	1	locazione a terzi
+		05 - Attività	1	Ozzangeles Cup
+		06 - Utenze	1	tasse rifiuti e smaltimento rifiuti
+	04 - via Bertini	01 - Documentazione generale	1	Cessione Gratuita Comune Bologna
+			2	Planimetrie e visure catastali
+			3	Frazionamento definitivo area
+			4	Convenzione con Università
+			5	Varie
+		02 - Impianti	1	Calcio a 5-Beach Volley
+			2	Impianto illuminazione
+			3	Spogliatoi
+		03 - Utenze	1	Acqua
+			2	Energia elettrica
+			3	Tasse rifiuti e Smaltimento rifiuti
+		04 - Fornitori	1	Preventivi
+			2	Garanzie
+		05 - Utilizzo Impianto	1	Locazione a terzi
+		06 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		07 - Pratica Tarsu/Tares		
+	05 - Palestra Gymcus	01 - Documentazione generale	1	Contratto Affitto
+			2	Condominio
+			3	 Inventario beni mobili
+			4	Planimetrie
+			5	Nuova toponomastica
+		02 - Utenze	1	Gas
+			2	Acqua
+			3	Energia elettrica
+			4	Tasse rifiuti e smaltimento rifiuti
+			5	Indagini costi utenze
+			6	SIAE
+			7	varie
+		03 - Fornitori	1	Collaboratori
+			2	Abbigliamento sportivo
+			3	Attrezzature sportive
+			4	Preventivi
+		04 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		05 - Convenzioni	1	Utilizzo soci
+			2	Collaborazioni USL
+			3	Comunità Giustizie Minorile
+		06 - Modulistica Interna	1	Regolamento Palestra
+			2	Griglia corsi
+			3	Listini prezzi
+			4	Scheda Allenamento
+			5	Questionari
+		07- Pratica Tarsu /Tares		
+	06 - Antistadio Lucchini	01 - Documentazione generale	1	Richiesta gestione
+			2	Convenzione  con Comune BO (Q.re Saragozza)
+			3	Manutenzione straordinaria
+			4	Varie gestione
+			5	denuncia Questura
+			6	Certificazione impianto elettrico
+		02 - Utenze	1	Gas
+			2	Acqua
+			3	Acqua Canale Reno
+			4	Energia elettrica
+			5	Riscaldamento
+			6	Tasse rifiuti/ Smaltimento rifiuti
+		03 - Utilizzo Impianti	1	Bologna F.C.
+			2	UISP Leg atletica
+			3	UISP Provinciale campionato
+		04 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		05 - Fornitori	1	Fornitori vari
+	07 - Tamburini-Scandellara	01 - Documentazione generale	1	Bando concorso
+			2	Contratto per gestione
+			3	Rapporti Quartiere San Vitale
+			4	Varie
+			5	Cessione Gestione
+		02 - Impianti tecnici	1	Impianto elettrico
+		03 - Utenze	1	UnoGas
+			2	varie
+		04 - Fornitori	1	TORO-Irrigazione
+	08 - Baumann	01 - Documentazione generale	1	Bando
+			2	Convenzione e planimetrie
+			3	Manutenzione Straordinaria
+			4	Inventario beni mobili
+			5	Commiss. Comunale Vigilanza
+			6	Autorizzaz.spazio pubblicitario
+			7	Comitato Tecnico di gestione
+			8	Varie
+		02 - Fornitori	1	Attrezzature
+		03 - Utilizzo Impianti	1	Locazione a terzi
+		04 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		05 - Utenze	1	Tasse rifiuti/Smaltimento rifiuti
+	09 - Cartografia Orienteering	01 - La Ca Vidiciatico (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		02 - Loiano (BO)	1	Files e stampe
+			2	Omologazione impianti
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		03 - Zocca (MO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		04 - Zola Predosa (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		05 - Centro Universitario Record (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		06 - Tolè (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		07 - Monghidoro (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		08 - Sant'Anna Pelago (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		09 - Certosa Tintoretto (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		10 - Terrapieno-Palacus (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+		11 - Parco dell'Abbazia di Monteveglio (BO)	1	Files e stampe
+			2	Omologazione
+			3	Manutenzione
+			4	Finanziatori e Sponsor
+			5	Eventi
+	10 - Stadio Palestra 23	01 - Documentazione generale	1	Convenzione Bologna F.C.
+			2	Affitto
+			3	Utenze
+			4	Manutenzione ordinaria
+			5	Inventario
+			6	Bilancio
+		02 - Attività commerciale	1	Locazione a terzi
+	11 - Centro Nautico Lido Spina	01 Documentazione generale	1	Corrispondenza
+	12 - Centro Nautico Ravenna	01 - Documentazione generale	1	Corrispondenza
+	13 - Centro Nautico Rimini	01 - Documentazione generale	1	Corrispondenza
+	14 - Tattini - Monghidoro	01 - Tattini Monghidoro	1	Invito presentazione offerta
+	15 - Centro Universitario Sterlino	01 - documentazione tecnica ed economica finanziaria	1	provenienza
+			2	urbanistica
+			3	catastale
+			4	disegni
+			5	occupazione
+			6	ingiunzione muro pericolante
+			7	cert. Energetica
+			8	valutazione anno 2003
+			9	certificazione impianto riscaldamento
+			10	usl di bologna
+			11	impianto elettrico
+			12	prevenzione incendi
+			13	sopralluogo vigili del fuoco
+		02 - istituto credito sportivo	1	corrispondenza
+			2	cessione credito
+			3	mutuo
+		03 - comune di bologna	1	convenzione e modifiche
+			2	corrispondenza
+			3	verbale  riconsegna
+			4	bando assegnazione corsie
+			5	ordinanze
+		04 - Coni servizi		
+		05 - Università		
+		06 - Ministro turismo e Sport		
+		07 - Coni C.P. Bologna		
+		08 - FIN	1	attività alto livello- corsie
+			2	corrispondenza
+		09 - AICS		
+		10 - Virtus sezione di ginnastica artistica		
+		11 - BAR		
+		12 - certificazione tribunale di bologna		
+		13 - corrispondenza asd e enti di promozione sportiva	1	corrispondenza
+		14 - Assessorato alla Provincia	1	verbale incontro
+		15 - Utenze	1	Hera gas/energia
+			2	Diolaiti caldaie
+			3	Enel
+			4	Hera acqua
+			5	Tasse rifiuti/ smaltimento rifiuti
+		16 - comodato d'uso	1	Service 2000 srl
+			2	altre società
+			3	Okeo
+			4	Ginnic club asd
+			5	President nuoto bologna asd
+			6	CEA Estintori
+			7	Cecconi Corrado
+		17 - Pallone pressostatico	1	Contratto 2000 Service
+			2	Pallone pressostatico piscina mt 25
+			3	Contratto di finanziamento- Mutuo imprese
+		18 - Accordo quadro		
+		19 - Dichiarazioni spazi acqua	1	Dichiarazioni
+		20 -  Palestra Pulcini	1	asd Ginnic
+			2	asd Studio Up
+		21 - Fornitori	1	Ditta Pulizie
+			2	distributori automatici
+			3	Acquabenessere srl
+			4	CEA Estintori
+		22 - ingressi		
+		23 - Nuove opere e manutenzione	1	sbarra cancello
+			2	lavori Hera
+			3	contratto costruzioni Stabile
+			4	contratto Culligan Italiana spa
+			5	progetto messa in sicurezza - fondazione cassa ris
+			6	richiesta fondi bando ministeriale
+			7	consulenza e diagnosi energetica
+		24 - Rogito		
+		25 - Affitto Attivo	1	area a cielo aperto Fior. M. srl
+			2	vari
+		26 - convenzioni concessione in uso	1	Federazione ginnastica italia crer
+		27 - Verbali denunce		
+		28 - Vendita		
+	16 - Palestra Unione	01 - Utenze		
+		02 - Fornitori	1	Pulizie Vincefor Service
+			2	varie
+		03 - Unibo Affidamento gestione	1	corrispondenza
+			2	convenzione
+03 - Attività	01 - Sede centrale	01 - Documentazione generale	1	Planimetrie
+			2	Contratto affitto
+			3	Varie
+			4	Guida Cusb 2010
+		02 - Impianti tecnici	1	Impianto elettrico-Front Office
+			2	Nuovo servizio igienico
+		03 - Utenze	1	 Energia elettrica-Preventivi-Contratti
+		04 - Sicurezza 81/08	1	 RSPP
+			2	Medico Competente
+			3	Rappresentante lavoratori
+			4	Riunioni periodiche
+			5	Valutazione rischi
+			6	Corsi sicurezza
+		05 - Assicurazioni	1	Polizze in vigore
+			2	Contenziosi
+		06 - Automezzi	1	Documenti
+			2	Manutenzione
+		07 - Fornitori	1	Pulizie
+			2	F.lli Biagini-Cancelleria
+			3	Berni-Carta e raccoglitori
+			4	Sisters-Cancelleria
+			5	Lere Medica-Materiale Medico
+			6	Gavelli Alfredo-Timbri
+			7	ZPS-Materiale Premiazioni
+			8	Compreur-Carta e asciugamani
+			9	Negri-Tipografia
+			10	Moderna-Tipografia
+			11	Poste Italiane
+			12	Tecnoclima
+			13	Popularity s.r.l.
+			14	Blu Service srl
+		08 - Richiesta Utilizzaz. Impianti Cusb	1	Richiesta Utilizzaz. Impianti Cusb
+			2	Richieste annuali Cusb
+			3	Richieste annuali Privati
+		09 - Sistemi informativi	1	Telefonia fissa
+			2	Telefonia cellulare
+			3	Notebook
+			4	Desktop
+			5	Materiali di consumo
+			6	Stampanti
+			7	Licenze d'uso software
+			8	Prese in carico materiale
+			9	Riconsegna materiale
+			10	Fotocopiatrici
+			11	Impianti audio
+			12	Altre attrezzature tecniche
+			13	Cesia
+			14	Posta elettronica
+			15	Siti internet
+		10 - Servizio civile	1	Convenzione Amesci
+			2	Candidati
+			3	Selezionati
+		11 - Tirocinio e Convenzioni Formative	1	Scienze Motorie
+			2	convenzioni universitarie e scuole superiori
+			3	convenzioni AUSL
+		12 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+		13 - Dipendenti	1	Nominativi
+			2	Contenziosi
+			3	associazioni sincacali
+		14 - Collaboratori/Professionisti	1	Nominativi
+			2	Contenziosi
+		15 - FAX	1	Fax in entrata
+			2	Fax in uscita
+		16 - Riviste	1	Il Cubo
+			2	Sport Universitario
+		17 - Certificazione qualita' TUV	1	Documentazione sistema
+			2	Comunicazioni e varie
+		18 - Protocollo	1	protocollo in uscita
+			2	Protocollo in entrata informatico
+		19 - Lavoro Occasionale di tipo Accessorio	1	documentazione
+		20 - Borse Lavoro	1	quartieri comune di Bologna
+		21 - Circolari Martinelli		
+	02 - Ambulatorio Terrapieno	01 - Documentazione generale	1	Costruzione ambulatorio
+			2	Pratiche rilascio autorizzazione sanitaria
+			3	Comunicati regione
+			4	Anagrafe regionale stutture accreditate
+			5	Anagrafe regionale medici sportivi
+			6	Documentazione legislativa nazionale
+			7	Decreto legislativo 626/94
+			8	Piano di emergenza ed evacuazione
+			9	Varie
+		02 - Certificazione Idoneità Sportiva Agonistica	1	Documentazione visite (In ambulatorio)
+			2	Dati anagrafici utenti (Lucia)
+			3	Dati statistici visite
+		03 - Impianti tecnici	1	Impianto elettrico
+			2	Verifiche impianto elettrico
+		04 - Attrezzature sanitarie	1	Registro controllo Dispositivi-Impianti
+			2	Elenco attrezzature sanitarie
+		05 - Fornitori	1	Compreur
+			2	Lere
+			3	Fornitori vari
+			4	Pubblicità - cataloghi
+	03 - Promozionale	01 - Front Office	1	Tesseramento
+			2	Carige Assicurazioni
+			3	Contenziosi
+		02 - Corsi	1	Collaboratori
+			2	Corsi Cus
+			3	Corsi convenzionati
+			4	Richiesta impianti Cusb
+			5	Richiesta impianti quartieri
+			6	Bilancio
+		03 - Tornei	1	Collaboratori
+			2	Campionati
+			3	Tornei
+			4	Torneo Open Atletica Leggera
+			5	Richiesta Impianti
+			6	Premiazioni
+			7	Bilancio
+		04 - Campus Universitari CUSI	1	Campus invernali CUSI
+			2	Campus estivi  CUSI
+		05 - Fornitori	1	Preventivi
+			2	Ordini
+		06 - Rapporti Internazionali	1	Corrispondenza
+			2	Attività
+		07 - Promozionale Nuoto	1	Csen
+		08 - Convenzioni scuole	1	progetti  scuole ultimate frisbee
+	04 - CNU	01 - Documentazione Generale	1	Premiazioni
+			2	Comunicati
+		02 - Fornitori	1	Collaboratori
+			2	Alberghi
+			3	Materiale sportivo
+		03 - Trasferte	1	Rimborsi
+		04 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+	05 - Sedi Decentrate	01 - Cesena	1	Corrispondenza
+			2	Attività
+			3	Rapporti con il Comune
+			4	Bilancio
+			5	Collaboratori
+		02 - Forlì	1	Corrispondenza
+			2	Attività
+			3	Rapporti con il Comune
+			4	Bilancio
+			5	Collaboratori
+		03 - Ravenna	1	Corrispondenza
+			2	Attività
+			3	Rapporti con il Comune
+			4	Bilancio
+			5	Collaboratori
+		04 - Rimini	1	Corrispondenza
+			2	Attività
+			3	Rapporti con il Comune
+			4	Bilancio
+			5	Collaboratori
+	06 - Marketing	01 - Comunicazione	1	Comunicazione interne
+			2	Comunicazione esterne
+			3	Pubbliche Relazioni
+			4	Rassegna stampa
+			5	Vademecum
+			6	Tabloid
+			7	Brochure
+			8	SITO
+			9	Facebook
+		02 - Convenzioni commerciali	1	Convenzioni commerciali
+			2	Convenzioni sportive
+			3	Convenzioni d’intesa
+		03 - Sponsorizzazioni	1	Main Sponsor
+			2	Sponsor Sostenitore
+			3	Sponsor Sezioni
+		04 - Sezioni	1	Arrampicata
+			2	Atletica
+			3	Canoa - Kajak
+			4	Football AM
+			5	Hockey
+			6	Judo
+			7	Nuoto Master
+			8	Orienteering
+			9	Pallavolo
+			10	Parkour
+			11	Pesistica
+			12	Rugby
+			13	Scherma
+			14	Sci Nordico
+			15	Ski Rol
+			16	Sport Diversamente Abili
+			17	Tennis
+			18	Ultimate Frisbee
+			19	Vela
+		05 - Eventi	1	Inauguarazione anno accademico
+			2	Etnicus
+			3	Giornata orientamento
+			4	Alma Welcome
+			5	CNU
+			6	Tornei Interfacoltà
+			7	Tornei Finali
+			8	Campi Estivi
+			9	Alma Fest
+			10	Bologna Sprint
+			11	Tornei primaverili
+			12	Sport Università e città
+			13	Multisport
+			14	Alma Mater Sailing Cup
+			15	Festa sede decentrate
+			16	Festa di Natale
+		06 - Unibo Rapporti	1	DiCCI
+			2	APSE
+			3	DSAW
+			4	ACESIA
+			5	Richieste
+			6	Corrispondenza
+		07 - Enti Rapporti	1	Regione
+			2	Provincia
+			3	Comune
+			4	Quartieri
+			5	Fondazione del Monte
+			6	Fondazione CARISBO
+			7	Fondazioni Comunità
+		08 - Consulenze e Certificazioni	1	Aster
+			2	Spin Off
+			3	Comunità Europea
+		09 - Concessioni per spazi	1	Affissione manifesti
+			2	Occupazione suolo pubblico
+			3	Occupazione spazi universitari
+		10 - Premiazioni	1	CNU
+			2	Campionati
+			3	Tornei
+		11 - Fornitori	1	Punto M
+			2	Asterisco
+			3	Negri
+			4	ZTP
+			5	Moderna
+		12 - Materiale pubblicitario	1	Cataloghi
+			2	Promozioni
+			3	Locandine/Volantini
+		13 - Bilancio	1	Bilancio preventivo
+			2	Bilancio consuntivo
+	07 - Centro Studi	01 - Comitato Scientifico	1	Corrispondenza
+			2	Studi e progetti di ricerca
+		02 - Convegni Cusb-Jask	1	Corrispondenza
+			2	Organizzazione generale
+			3	Preventivi
+			4	Patrocinio e lettere di invito
+			5	Pubblicizzazione
+		03 - Corsi di aggiornamento	1	Corrispondenza
+			2	Organizzazione generale
+			3	Pubblicizzazione
+			4	Materiale didattico
+		04 - Progetti sperimentali	1	Corrispondenza
+			2	Progetto Handikap
+		05 - Convegni e corsi organizzati da altri Enti	1	Comunicati, cataloghi
+			2	Materiale didattico
+		06 - Ricerca risorse	1	Corrispondenza
+			2	Fondazione Cassa di Risparmio
+			3	Fondazione del Monte
+			4	Gestione Voucher
+			5	Bandi Europei
+			6	Bandi Ministeriali
+			7	Bandi Regionali
+			8	Bandi Provinciali
+			9	Bandi Comunali
+		07 - Bilancio	1	Bilancio Preventivo
+			2	Bilancio Consuntivo
+	08 - Scuole	01 - Primarie e secondarie 1° grado	1	Bilancio
+			2	Istituto Comprensivo N. 1
+			3	Istituto Comprensivo N. 7
+			4	Istituto Comprensivo N. 9
+			5	Istituto Comprensivo N.10
+			6	Istituto Comprensivo N.15
+			7	Istituto Comprensivo N.16
+			8	Istituto Comprensivo Rastignano
+			9	8° Circolo
+			10	Istituto Comprensivo n. 6
+			11	Contratti Istruttori
+			12	Pagamenti istruttori
+			13	Festa multisport
+			14	Atletica in piazza
+			15	Istituto San Giuseppe
+			16	Istituto Il Pellicano
+			17	Scuola primaria Drusiani
+			18	SC
+		02 - Scuole Secondarie 2° Grado	1	Bilancio
+			2	Ufficio Scolastico Provinciale
+			3	Giochi Sportivi Studenteschi
+			4	Bologna Sprint
+			5	Progetti Ultimate
+			6	Altri Progetti
+	09 - Centri Sportivi Giovanili	01 - Centri Estivi	1	Fornitori
+			2	Convenzioni
+			3	Denuncia inizio Attivita'
+		02 - Centri Invernali	1	Varie
+	10 - Formazione	01 - Dipendenti e Collaboratori	1	Profexa
+			2	 Defibrillatori  semiautomatici
+	11 - Assegnazione spazi sez.-sett. Cusb e cubo	01 - anno	1	Sezioni/Settori CUSB
+			2	Privati
+	12- Partecipazione Bandi	01 - Bandi comunali	1	Assegnazione Spazi/palestre comunali
+		02 - Bandi Regionali	1	Finanziamenti Progetti
+		03 - Bandi Nazionali	1	Finanziamenti Progetti
+		04 - Bandi Europei	1	Finanziamenti Progetti
+	13 - Store	01 - Convenzioni	1	UNIBO
+			2	FAM
+			3	Macron
+			4	Macron Store
+		02 - Fornitori	1	Rekeep
+		03 - Corrispondenza	1	varie
+04 - Rapporti Università	01 - Rettorato	01 - Rettore	1	Corrispondenza
+		02 - Uffici Amministrativi	1	Patrimonio
+			2	Edilizia sportiva
+			3	Azienda Agraria
+	02 - Comitato Sport Universitario	01 - Legge 394	1	Cus Web - Miur
+			2	Convenzione UNIBO - CUSI
+			3	Comunicati contributi
+			4	Consuntivi-Rendicontazioni
+			5	CUSWEB-Preventivi
+			6	Comunicati vari
+		02 - Adas	1	Estratto verbale 21/03/1995
+			2	Convezione Università - CUSB
+			3	Contributi annui Convenzione Università
+			4	Contributi sedi decentrate
+			5	Corrispondenza-Varie
+			6	Part time studentesco
+			7	Relazioni attività - Consentivi - Preventivi
+			8	Convenzione CUBO
+		03 - Riunioni Comitato Soprt Universitario	1	Anno 2004
+			2	Anno 2005
+			3	Anno 2006
+			4	Anno 2007
+			5	Anno 2008
+			6	Anno 2009
+			7	Anno 2010
+			8	Anno 2011
+			9	Anno 2012
+			10	Anno 2013
+	03 - Scienze Motorie	01 - Presidenza e segreteria	1	Corrispondenza Preside
+			2	Corrispondenza Segreteria
+		02 - Utilizzo impianti	1	Richiesta impianti
+			2	Record
+			3	Terrapieno
+05 - Rapporti Altri Enti	01 - Comunità Europea	01 - Documentazione generale	1	Corrispondenza
+			2	Comunicati
+		02 - finanziamenti	1	Bandi di Concorso
+	02 - Regione Emilia Romagna	01 - Documentazione generale	1	Corrispondenza
+			2	Comunicati
+			3	Elenchi Reg. Sezioni Provinciali
+		02 - finanziamenti	1	Bandi di Concorso
+			2	Politiche Giovanili Regionali
+		03 - Documentazione legislativa	1	Audizioni disegni di legge
+			2	Bollettino Ufficiale
+		04 - Accreditamento Regione	1	Accreditamento
+			2	Modulistica
+	03 - Provincia di Bologna	01 - Documentazione generale	1	Corrispondenza
+			2	Comunicati
+		02 - finanziamenti	1	Bandi di concorso
+	04 - Comune di Bologna	01 - Documentazione generale	1	Corrispondenza e comunicati
+			2	Denunce inizio attività
+			3	Libere forme associative
+			4	Consulta dello sport
+			5	Commissione Comunale giochi Gioventù
+		02 - finanziamenti	1	Bandi di concorso
+		03 - quartiere Borgo Panigale	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		04 - Navile	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		05 - Porto	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		06 - Reno	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		07 - S. Donato	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		08 - S. Stefano	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		09 - S. Vitale	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		10 - Saragozza	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		11 - Savena	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+		12 - S. Vitale	1	Corrispondenza
+			2	Comunicati
+			3	Richieste spazi impianti sportivi
+	05 - Altri Comuni	01 - Ravenna	1	corrispondenza
+	06 - CONI	01 - Coni Provinciale	1	Corrispondenza e comunicati
+			2	Registro Anagrafe sociale
+			3	Riapertura Centri Cas
+			4	Bologniadi
+			5	Bandi di concorso
+			6	Giornata dello sport
+		02 - Coni Regionale	1	Corrispondenza e comunicati
+			2	Bandi di concorso
+			3	 convenzione Coni Ragazzi
+		03 - Coni Nazionale	1	Statuto
+	07 - ENTI	01 - UISP	1	Corrispondenza
+		02 - CSI	1	Corrispondenza
+		03 - AICS	1	Corrispondenza
+		04 - CSEN	1	Corrispondenza
+		05 - ENDAS	1	Corrispondenza
+06 - Sezioni	01 - Arrampicata	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	02 - Atletica	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia	1	Centri Cas
+			2	contenziosi/ Ripresa
+	03 - Canoa	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	05 - Hockey	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	07 - Nuoto Master	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia	1	Assegnazione spazi acqua
+			2	convenzioni
+	08 - Orienteering	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	09 - Pallavolo	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	10 - Pallanuoto	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia	1	Delibere del giudice unico regionale
+			2	Comunicazioni federazione nuoto
+	12 - Rugby	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+		03 - Contenziosi	1	Contenzioso Rugby Bologna 1928 srl
+	13 - Scherma	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	14 - Sci Nordico	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	17 - Tennis	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia		
+	18 - Flying Disc	01 - Federazione Sportiva	1	Corrispondenza
+			2	Comunicati
+			3	Certificato Medico
+			4	Riaffiliazione
+			5	Tesseramenti
+		02 - Documentazione varia	1	Ringraziamenti
+	19 - Vela	01 - Federazione Sportiva	1	Riaffiliazione e tesseramento
+			2	Verbali assemblee
+			3	Normativa e comunicati FIV
+			4	Documenti Statutari
+		02 - Documentazione varia	1	Corrispondenza
+			2	Bilanci
+			3	Contabilità
+			4	Corsi vela
+			5	Corsi patenti
+			6	Attività agonistica-Bandi
+			7	Evidenza
+		03 - manifestazioni	1	Alma Mater Sailing Cup
+			2	Partecipazioni Internazionali
+			3	CNU
+	20 - Scuola Nuoto	01 - Federazione	1	Riaffiliazione
+		02 - corrispondenza	1	assegnazione spazi
+			2	convenzione ASD Nuovo Nuoto
+			3	convenzione Corpo Polizia Municipale
+07 - Amministrazione e Contabilità	01 - Contabilità	01 - Cassa	1	Copia Prima nota cassa
+			2	Movimenti di Cassa
+		02 - Banche	1	Carisbo
+			2	Unicredit / Unipol Banca / intesa/Banca interprov
+			3	Movimenti per banca
+			4	Versamenti in banca
+			5	Fidejussioni Rapporti con Banche
+			6	Cartasì
+			7	Banco Posta
+		03 - Clienti	1	Fatture emesse
+			2	Ricevute emesse / Corrispettivi
+			3	Contenzioso clienti
+		04 - Fornitori/Collaboratori/Professionisti	1	Fatture Fornitori
+			2	DDT Fornitori
+			3	Fotocopie Utenze per Impianto
+			4	Sponsorizzazioni Contratti
+			5	Ordini a fornitori
+			6	Autorizzazioni ai pagamenti
+			7	Conferme pagamenti fine mese
+			8	Lettere di incarico sportivi
+			9	Compensi a Terzi
+			10	Anticipi a Collaboratori
+			11	contenziosi
+		05 - Dipendenti	1	Cedolini Buste paga
+			2	Ina assicurazione Polizza TFR
+			3	INAIL
+		06 - Tributi	1	F24 IRPEF dipendenti / Collaboratori
+			2	Mod. 770 e certificazioni
+			3	Mod. Unico
+			4	Adempimenti 5 °/°°
+			5	Circolari Fiscali
+		07 - Libri Contabili	1	Libro Collegio sindacale
+			2	Libro Giornale
+			3	Registri Iva
+			4	L394/ADAS/COM.REG.
+			5	Beni ammortizzabili
+		08 - Documenti contabili	1	Bilancio Previsionale
+			2	Appunti contabili anno in corso
+			3	Sedi  (prima nota documenti entrata ed uscita)
+			4	Assicurazioni quietanze
+			5	Automezzi Cusb Assicurazioni / libretti
+			6	Palestre ed Associazioni Sportive in convenzione
+	02 - Amministrazione	01 - Gestione ricevute	1	Ricevute carta di credito
+			2	Corsi Cusb
+			3	Tessere Cusb
+			4	Certificati medici
+			5	Tessere Gymcus
+			6	Corsi Gymcus
+			7	Tornei
+			8	Consegna ricevutari
+			1	Appunti Procedure contabili / amministrative
+			2	Corrispondenza in entrata
+			3	Protocollo corrispondenza in uscita
+			4	Prestitempo
+		02 - Procedure e corrispondenza	1	

@@ -40,7 +40,7 @@
         </div>
         <div v-else>
           <div class="row mb-2">
-            <div class="col-sm-3">
+            <div class="col-sm-12">
               &nbsp;
               <br>
               <b-button variant="outline-success" @click="newForm()">Inserisci nuovo</b-button>
@@ -57,15 +57,15 @@
               mezzo:
               <v-select v-model="filters.mean_of_arrival" :options="data.means_of_arrival"/>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3" v-if="type == 'entrata'">
               locazione:
               <v-select v-model="filters.location" :options="data.locations"/>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3" v-if="type == 'entrata'">
               codice {{ $t(`${type}_target`) }}:
               <v-select v-model="filters.sender_code" :options="data.sender_codes"/>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-3">
               nome {{ $t(`${type}_target`) }}:
               <v-select v-model="filters.sender_name" :options="data.sender_names"/>
             </div>

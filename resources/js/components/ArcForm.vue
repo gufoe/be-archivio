@@ -181,7 +181,11 @@ export default {
   methods: {
     refresh () {
       let params = this.filters
-      axios.get(`/api/form-data`).then(res => {
+      axios.get(`/api/form-data/`+this.form.type).then(res => {
+        if (this.form.type == 'uscita' && !this.form.id) {
+          this.orig.int_pr = res.data.next_int_pr
+          this.$set(this.form, 'int_pr', res.data.next_int_pr)
+        }
         this.sender_codes = res.data.sender_codes
         this.sender_names = res.data.sender_names
         this.offices = res.data.offices

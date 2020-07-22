@@ -20,7 +20,7 @@ class Message extends Model {
   }
   public static function getDossiers() {
     $x = Message::distinct()->pluck('dossier');
-    $ret = (object) [];
+    $ret = json_decode(file_get_contents(base_path('cats.json')));
     foreach ($x as $d) {
       $d = explode(' | ', $d);
       if (count($d) != 4) continue;
