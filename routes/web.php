@@ -53,8 +53,8 @@ Route::group(['middleware' => 'auth'], function() {
     });
     Route::get('api/form-data/{type}', function ($type) {
         return [
-            'next_int_pr' => Message::where('type', $type)->max('int_pr')+1,
-            'next_ext_pr' => Message::where('type', $type)->max('ext_pr')+1,
+            'next_int_pr' => Message::where('type', $type)->forYear('year', date('Y'))->max('int_pr')+1,
+            'next_ext_pr' => Message::where('type', $type)->forYear('year', date('Y'))->max('ext_pr')+1,
             'sender_codes' => Message::distinct()->pluck('sender_code')->sort()->values(),
             'sender_names' => Message::distinct()->pluck('sender_name')->sort()->values(),
             'offices' => Message::distinct()->pluck('office')->sort()->values(),
