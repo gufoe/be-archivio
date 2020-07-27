@@ -68,7 +68,7 @@ Route::group(['middleware' => 'auth'], function() {
     });
     Route::post('api/messages/{type}', function ($type) {
         $data = [
-            'type' => request('type'),
+            'type' => $type,
             'reg_date' => (string) request('reg_date'),
             'doc_date' => (string) request('doc_date'),
             'ext_pr' => (int) request('ext_pr'),
@@ -92,7 +92,6 @@ Route::group(['middleware' => 'auth'], function() {
             if (!mb_strlen($data['sender_code'])) abort(400, 'Compilare tutti i campi');
             if (!mb_strlen($data['sender_name'])) abort(400, 'Compilare tutti i campi');
             if (!mb_strlen($data['office'])) abort(400, 'Compilare tutti i campi');
-
         }
 
         if ($data['reg_date'] < $data['doc_date']) abort(400, 'La data di registrazione non può precedere la data del documento');
@@ -103,6 +102,7 @@ Route::group(['middleware' => 'auth'], function() {
 
             $used_int_pr = Message::where('int_pr', $data['int_pr'])
                 ->where('id', '<>', $x->id)
+                ->where('type', $data['type'])
                 ->exists();
             if ($used_int_pr) abort(400, 'Il protocollo interno è già in uso');
 
@@ -114,7 +114,7 @@ Route::group(['middleware' => 'auth'], function() {
             if ($data['reg_date'] < $min_reg_date) abort(400, "Puoi solo inserire elementi dal $min_reg_date_it in poi");
 
             if (!$data['int_pr']) {
-                $data['int_pr'] = Message::whereType($data['type'])->forYear($data['doc_date'])->max('int_pr')+1;
+                $data['int_pr'] = Message::where('type', $data['type'])->forYear($data['doc_date'])->max('int_pr')+1;
             }
 
             $x = Message::create($data);
