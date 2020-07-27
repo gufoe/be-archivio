@@ -114,7 +114,9 @@ Route::group(['middleware' => 'auth'], function() {
             if ($data['reg_date'] < $min_reg_date) abort(400, "Puoi solo inserire elementi dal $min_reg_date_it in poi");
 
             if (!$data['int_pr']) {
-                $data['int_pr'] = Message::where('type', $data['type'])->forYear($data['doc_date'])->max('int_pr')+1;
+                $data['int_pr'] = Message::where('type', $data['type'])
+                    ->forYear($data['doc_date'])
+                    ->max(\DB::raw('int_pr*1'))+1;
             }
 
             $x = Message::create($data);
