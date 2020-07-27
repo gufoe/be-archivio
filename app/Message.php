@@ -4,7 +4,7 @@ namespace App;
 
 class Message extends Model {
   public function scopeForYear($q, $year) {
-    $q->where('reg_date', 'like', substr("$year", 0, 4)."%");
+    $q->where(\DB::raw('YEAR(reg_date)'), substr("$year", 0, 4));
   }
 
   public static function getSenders($code = null) {
