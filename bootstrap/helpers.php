@@ -10,13 +10,11 @@ function notify_admin($message, $only_prod = true) {
         'msg' => $message,
     ]);
     $bytes = @file_get_contents($url) ? 'ok' : 'fail';
-    \Log::debug("Contacted admin on url [res=$bytes]: ".substr($url, 0, 20)."...");
 
     $url = "https://echo.gufoe.it/FvG3w7IE8T?".http_build_query([
         'msg' => $message,
     ]);
     $bytes = @file_get_contents($url) ? 'ok' : 'fail';
-    \Log::debug("Contacted admin on url [res=$bytes]: ".substr($url, 0, 20)."...");
 
     return $bytes;
 }
