@@ -38,6 +38,7 @@ class Handler extends ExceptionHandler
     {
         parent::report($exception);
 
+        if (!$this->shouldReport($exception)) return;
         $clean_trace = explode("\n", $exception->getTraceAsString());
         $clean_trace = collect($clean_trace)
         ->filter(function ($line) {
