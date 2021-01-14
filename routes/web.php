@@ -101,7 +101,7 @@ Route::group(['middleware' => 'auth'], function() {
             $x = Message::findOrFail($id);
 
             $used_int_pr = Message::where('int_pr', $data['int_pr'])
-                ->forYear($data['doc_date'])
+                ->forYear($data['reg_date'])
                 ->where('id', '<>', $x->id)
                 ->where('type', $data['type'])
                 ->exists();
@@ -116,7 +116,7 @@ Route::group(['middleware' => 'auth'], function() {
 
             if (!$data['int_pr']) {
                 $data['int_pr'] = Message::where('type', $data['type'])
-                    ->forYear($data['doc_date'])
+                    ->forYear($data['reg_date'])
                     ->max(\DB::raw('int_pr*1'))+1;
             }
 
