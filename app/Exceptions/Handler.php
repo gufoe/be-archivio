@@ -53,7 +53,7 @@ class Handler extends ExceptionHandler
         })
         ->implode("\n");
 
-        $route = \Route::getCurrentRoute();
+        $route = null;//\Route::getCurrentRoute();
         $uri = '/'.trim($route ? $route->uri() : (@$_SERVER['REQUEST_URI'] ?: @url()->full()), '/');
         $text = "Errore in archivio\n"
             ."URL: ".$uri."\n"
