@@ -101,6 +101,7 @@ Route::group(['middleware' => 'auth'], function() {
             $x = Message::findOrFail($id);
 
             $used_int_pr = Message::where('int_pr', $data['int_pr'])
+                ->forYear($data['doc_date'])
                 ->where('id', '<>', $x->id)
                 ->where('type', $data['type'])
                 ->exists();
