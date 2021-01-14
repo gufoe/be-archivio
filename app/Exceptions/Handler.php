@@ -37,31 +37,6 @@ class Handler extends ExceptionHandler
     public function report(Exception $exception)
     {
         parent::report($exception);
-
-        if (!$this->shouldReport($exception)) return;
-        $clean_trace = explode("\n", $exception->getTraceAsString());
-        $clean_trace = collect($clean_trace)
-        ->filter(function ($line) {
-            return strpos($line, 'vendor/') === false;
-        })
-        ->map(function ($line) {
-            $line = str_replace(base_path(), '', $line);
-            $dots = strpos($line, '):');
-            if ($dots !== false) {
-                $line = substr($line, 0, $dots + 1);
-            }
-            return $line;
-        })
-        ->implode("\n");
-
-        $route = null;//\Route::getCurrentRoute();
-        $uri = '/'.trim($route ? $route->uri() : (@$_SERVER['REQUEST_URI'] ?: @url()->full()), '/');
-        $text = "Errore in archivio\n"
-            ."URL: ".$uri."\n"
-            ."METH: ".mb_strtoupper($route ? $route->methods()[0] : @$_SERVER['REQUEST_METHOD'])."\n"
-            ."ERR: ".get_class($exception)." {$exception->getMessage()}\n"
-            ."Trace:\n".$clean_trace."\n";
-        notify_admin($text);
     }
 
     /**
